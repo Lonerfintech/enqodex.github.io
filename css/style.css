@@ -744,10 +744,8 @@ body{
     width: 100%;
     overflow: hidden;
 }
-#mob-menu{
-    display: none;
-}
-@media (max-width: 768px){
+
+@media (max-width: 100px){
     #menu li{
         display: block;
     }
